@@ -37,7 +37,7 @@ import java.util.Map;
 import static junit.framework.TestCase.assertEquals;
 
 /**
- * Test for Part and Car
+ * Test for Part and Car test
  */
 public class DomainTest {
 
